@@ -1,0 +1,13 @@
+.player-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  button {
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+  }
+  

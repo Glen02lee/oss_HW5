@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #003e6b;
+    color: white;
+    padding: 20px;
+  }
+  
+  #player-section {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #003e6b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background-color: #004a8f;
+  }
+  
+  .player-list p {
+    font-size: 14px;
+    color: #444;
+    border-bottom: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  footer {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #003e6b;
+    color: white;
+  }
+  
